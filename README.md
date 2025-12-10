@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lourdes Reyes</h1>
-<h3 align="center">Junior Cybersecurity Analyst | CCST Cybersecurity | ISO 9001 Auditor</h3>
-
+<h1 align="center">Hola 👋, soy Lourdes Reyes</h1>
 - Soy una profesional apasionada por la protección de datos, la seguridad de redes y la mejora continua de procesos. [Certificación CCST Cybersecurity (Cisco)](https://www.credly.com/badges/c5ff39d2-7f2e-4f40-bfbe-24396a23c099/public_url)
 
-- 🌱 I’m currently learning **Threat Hunting & Incident Response**
+- 🌱 Actualmente estoy aprendiendo **Busqueda de amenazas y respuesta a incidentes**
 
-- 💬 Ask me about **Network Security, Vulnerability Assessment, ISO 9001 Compliance & Risk Management**
+- 💬 Pregúntame sobre **Network Security, Vulnerability Assessment, ISO 9001 Compliance & Risk Management**
 
-- 📫 How to reach me **lgonzzreyes@gmail.com**
+- 📫 Cómo contactarme **lgonzzreyes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
