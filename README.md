@@ -18,9 +18,8 @@
 ---
 ### 📊 Mis estadísticas de GitHub
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgonzzreyes-boop&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgonzzreyes-boop&layout=compact&theme=radical&hide_border=true" />
-</a>
-</div>
+### 📊 Mis estadísticas de GitHub
+
+![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=lgonzzreyes-boop&show_icons=true&theme=radical)
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lgonzzreyes-boop&layout=compact&theme=radical)
