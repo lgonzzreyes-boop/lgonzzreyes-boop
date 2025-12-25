@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Busqueda de amenazas y respuesta a incidentes**
 
-- 💬 Pregúntame sobre **Network Security, Vulnerability Assessment, ISO 9001 Compliance & Risk Management**
+- 💬 Pregúntame sobre **Seguridad de red, evaluación de vulnerabilidades, cumplimiento de la norma ISO 9001 y gestión de riesgos**
 
 - 📫 Cómo contactarme **lgonzzreyes@gmail.com**
 
