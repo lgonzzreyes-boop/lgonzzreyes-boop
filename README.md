@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lourdes Reyes</h1>
-- Soy una profesional apasionada por la protección de datos, la seguridad de redes y la mejora continua de procesos. [Certificación CCST Cybersecurity (Cisco)](https://www.credly.com/badges/c5ff39d2-7f2e-4f40-bfbe-24396a23c099/public_url)
+- Soy una estudiante apasionada por la protección de datos, la seguridad de redes y la mejora continua de procesos. [Certificación CCST Cybersecurity (Cisco)](https://www.credly.com/badges/c5ff39d2-7f2e-4f40-bfbe-24396a23c099/public_url)
 
 - 🌱 Actualmente estoy aprendiendo **Busqueda de amenazas y respuesta a incidentes**
 
